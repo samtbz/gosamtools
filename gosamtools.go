@@ -1,4 +1,4 @@
-package sam-gotools
+package gosamtools
 
 import (
 	"fmt"
