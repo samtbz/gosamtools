@@ -1,7 +1,6 @@
 package gosamtools
 
 import (
-	"fmt"
 	"os"
 )
 
